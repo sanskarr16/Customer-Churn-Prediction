@@ -34,11 +34,15 @@ Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 26.6 % of customers switched to another firm.
 
 #2. Churn distribution with respect to Gender
+
 <img width="651" height="527" alt="distributionWRTGender" src="https://github.com/user-attachments/assets/893847ec-ec87-48df-b158-60492152ef12" />
+
 There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
 
 #3. Customer Contract Distribution
+
 <img width="700" height="500" alt="Contract distribution" src="https://github.com/user-attachments/assets/d5390b2f-be88-499e-9718-d753cef3b7f6" />
+
 About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract
 
 #4. Contact Distribution
