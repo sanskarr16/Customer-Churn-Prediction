@@ -29,7 +29,33 @@ Demographic info about customers – gender, age range, and if they have partner
 Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
 
 # Few glimpses of EDA:
+#1. Churn Distribution
 <img width="983" height="525" alt="Churn Distribution" src="https://github.com/user-attachments/assets/7df24fe5-cfc0-4a1b-9657-7998ce3f781c" />
+26.6 % of customers switched to another firm.
+
+#2. Churn distribution with respect to Gender
+<img width="651" height="527" alt="distributionWRTGender" src="https://github.com/user-attachments/assets/893847ec-ec87-48df-b158-60492152ef12" />
+There is negligible difference in customer percentage/count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.`
+
+#3. Customer Contract Distribution
+<img width="700" height="500" alt="Contract distribution" src="https://github.com/user-attachments/assets/d5390b2f-be88-499e-9718-d753cef3b7f6" />
+About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customrs with One Year Contract and 3% with Two Year Contract
+
+#4. Contact Distribution
+<img width="983" height="525" alt="payment methods" src="https://github.com/user-attachments/assets/9d2ed186-2a22-401b-a311-18aa28fd3b2a" />
+<img width="942" height="561" alt="payment ethods with respectto churn" src="https://github.com/user-attachments/assets/ae08b87a-09e6-4675-9526-5bcb0aa6516b" />
+Major customers who moved out were having Electronic Check as Payment Method. Customers who opted for Credit-Card automatic transfer or Bank Automatic Transfer and Mailed Check as Payment Method were less likely to move out.
+
+#5. Internet Services
+<img width="1202" height="595" alt="internet services" src="https://github.com/user-attachments/assets/687c8366-ec3a-45e1-8cf4-6ef333615ce7" />
+Several customers choose the Fiber optic service and it's also evident that the customers who use Fiber optic have high churn rate, this might suggest a dissatisfaction with this type of internet service. Customers having DSL service are majority in number and have less churn rate compared to Fibre optic service.
+
+#6. Online Security
+<img width="919" height="574" alt="onlineSecurity" src="https://github.com/user-attachments/assets/62a6c344-4ff0-4268-ad03-033fc7f75a99" />
+As shown in following graph, most customers churn due to lack of online security
+
+
+
 
 
 
